@@ -10,14 +10,22 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/testng/testng-7.1.0.jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/selenium-server-standalone-3.141.59 (1).jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/okio-1.14.0.jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/okhttp-3.11.0.jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/guava-25.0-jre.jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/commons-exec-1.3.jar!/" />
-          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/client-combined-3.141.59.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/testng/testng-7.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/client-combined-3.141.59.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/guava-25.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/okhttp-3.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/okio-1.14.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrery/selenium/selenium-server-standalone-3.141.59 (1).jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
